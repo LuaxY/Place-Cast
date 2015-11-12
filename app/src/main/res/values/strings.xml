@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Place Cast</string>
+    <string name="action_settings">Settings</string>
+    <string name="media_route_menu_title">Chromecast</string>
+    <string name="app_id">3EDBF087</string>
+    <string name="app_id_pc">93B02465</string>
+</resources>
